@@ -1269,6 +1269,10 @@ a {
   bottom: 0;
 }
 
+.pricing .box:hover {
+  margin-top: -10px;
+}
+
 .pricing .box:hover::after,
 .pricing .box:hover::before {
   width: 100%;
